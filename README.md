@@ -16,11 +16,17 @@ These fields are booming these days. In order not to become rusty, one has to co
 - [Learning](https://arxiv.org/list/cs.LG/recent)
 - [Neural and Evolutionary Computing](https://arxiv.org/list/cs.NE/recent)
 
+### [Arxiv Sanity](http://www.arxiv-sanity.com/): beautiful interface plus other features for interacting with arXiv
+
 ### [ShortScience](http://www.shortscience.org/): post-publication discussion
 
 ### [GitXiv](http://www.gitxiv.com/): space to share collaborative projects
 
 ### [HackerNews](https://news.ycombinator.com/news) (I wish there is an option to filter out posts of interest)
+
+### [DataTau](https://www.datatau.com/): HackerNews for data scientists
+
+### [AITopics](https://aitopics.org/search): collection of info about research, people, and applications of AI
 
 ### Youtube channels. Do not forget to install [playback speed control](https://chrome.google.com/webstore/detail/youtube-playback-speed-co/hdannnflhlmdablckfkjpleikpphncik) to optimize your time
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
@@ -47,7 +53,7 @@ These fields are booming these days. In order not to become rusty, one has to co
 
 ## People to follow
 
-Usually, important news are dismissed pretty fast on Twitter and often retweeted by many. Here is my [list](https://twitter.com/ukrdailo/lists/doyouevenlearn) (will be constantly updated) of 'twitters to follow' in order to stay up to date.
+Usually, important news are dismissed pretty fast on Twitter and often retweeted by many. Here is my [list](https://twitter.com/ukrdailo/lists/doyouevenlearn) of 'twitters to follow' in order to stay up to date.
 
 ## Blogs to subscribe
 - [The Wild Week in AI](https://www.getrevue.co/profile/wildml)
