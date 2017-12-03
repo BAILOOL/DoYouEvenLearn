@@ -1,6 +1,6 @@
 # Essential Guide to keep up with AI/ML/CV/UNameIt
 
-These fields are booming these days. In order not to become rusty, one has to constantly follow the updates. Here is the ultimate guide on how to keep up with the important news/papers/discussions/tutorials. This guide is by no means an exhaustive one so contributions are truly welcome. I believe you have a lot to add!
+These fields are booming these days. In order not to become rusty, one has to constantly follow the updates. Here is the essential guide on how to keep up with the important news/papers/discussions/tutorials. This guide is by no means an exhaustive one so contributions are truly welcome. I believe you have a lot to add!
 
 ## Bookmarks to ‘Run on Start’
 
