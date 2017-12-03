@@ -49,7 +49,7 @@ These fields are booming these days. In order not to become rusty, one has to co
 
 Usually, important news are dismissed pretty fast on Twitter and often retweeted by many. Here is my [list](https://twitter.com/ukrdailo/lists/doyouevenlearn) (will be constantly updated) of 'twitters to follow' in order to stay up to date.
 
-## Blogs to follow
+## Blogs to subscribe
 - [The Wild Week in AI](https://www.getrevue.co/profile/wildml)
 - [inFERENCe](http://www.inference.vc/)
 - [The Morning Paper](https://blog.acolyer.org/)
