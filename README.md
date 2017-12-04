@@ -51,9 +51,26 @@ These fields are booming these days. In order not to become rusty, one has to co
 - [ResearchGate](https://www.researchgate.net/)
 - [Distill](https://distill.pub/)
 
-## People to follow
+## Twitter
 
-Usually, important news are dismissed pretty fast on Twitter and often retweeted by many. Here is my [list](https://twitter.com/ukrdailo/lists/doyouevenlearn) of 'twitters to follow' in order to stay up to date.
+Usually, important news is disseminated pretty fast on Twitter and often shared by many. Here are some of the publically available lists(in no particular order) by well-established Tweeters:
+
+| Tweeter               | Lists | 
+| -------------         |:-------------:|
+| [Deep Learning Hub](https://twitter.com/DeepLearningHub) | [Top-N](https://twitter.com/DeepLearningHub/lists/top-n)   |
+| [Marshall Kirkpatrick](https://twitter.com/marshallk)    | [Top 10 AI](https://twitter.com/marshallk/lists/top-10-ai) |
+| [Lynn Cherny](https://twitter.com/arnicas)               | [Text Data, Vis & Art](https://twitter.com/arnicas/lists/text-data-vis-art)   |
+| [Sam Shead](https://twitter.com/Sam_L_Shead)             | [DeepMind](https://twitter.com/Sam_L_Shead/lists/deepmind) |
+| [Ferenc Huszár](https://twitter.com/fhuszar)             | [Machine Learning](https://twitter.com/fhuszar/lists/machine-learning) |
+| [Denny Britz](https://twitter.com/dennybritz)            | [Deep Learning](https://twitter.com/dennybritz/lists/deep-learning) |
+| [Jihoon Jeong](https://twitter.com/hiconcep)             | [AI](https://twitter.com/hiconcep/lists/ai) |
+| [TensorFlow Community](https://twitter.com/TensorFlo)    | [>10x](https://twitter.com/TensorFlo/lists/10x) |
+| [Nikolai Yakovenko](https://twitter.com/ivan_bezdomny)   | [AI](https://twitter.com/ivan_bezdomny/lists/ai) |
+| [Ayşe Naz Erkan](https://twitter.com/naz_erkan)          | [Cortex folks](https://twitter.com/naz_erkan/lists/cortex-folks) |
+| [Luba Elliott](https://twitter.com/elluba)               | [Creative AI](https://twitter.com/elluba/lists/creative-ai) [Machine Intelligence](https://twitter.com/elluba/lists/machine-intelligence) |
+| [Adam Rifkin](https://twitter.com/ifindkarma)            | [Artificial Intelligence](https://twitter.com/ifindkarma/lists/artificial-intelligence) |
+| [Ali Sohani](https://twitter.com/alisohani)              | [Machine Learning](https://twitter.com/alisohani/lists/machine-learning) |
+
 
 ## Blogs to subscribe
 - [The Wild Week in AI](https://www.getrevue.co/profile/wildml)
@@ -63,7 +80,7 @@ Usually, important news are dismissed pretty fast on Twitter and often retweeted
 
 ## Connect to your local communities
 
-Temporary description: From my personal experience, due to multiple reaons, there are various local communities(e.g. per counry). I would simply not dare include links for those that I am not competent in. Eventually, the table below might look smth like [this](https://i.pinimg.com/originals/29/5d/22/295d22ab9d9d2c35468b526459d687e8.jpg)(just an idea). Please update the table with verified links.
+Temporary description: From my personal experience, due to multiple reasons, there are various local communities(e.g. per country). I would simply not dare include links for those that I am not competent in. Eventually, the table below might look smth like [this](https://i.pinimg.com/originals/29/5d/22/295d22ab9d9d2c35468b526459d687e8.jpg)(just an idea). Please update the table with verified links.
 
 | Country        | Links         | 
 | -------------  |:-------------:|
