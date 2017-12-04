@@ -69,4 +69,5 @@ Temporary description: From my personal experience, due to multiple reaons, ther
 | -------------  |:-------------:|
 | Ukraine        | [Ukrainian Artificial Intelligence Community](https://www.facebook.com/groups/1528224447431465/) |
 | South Korea    | [AI Korea (Deep Learning)](https://www.facebook.com/groups/AIKoreaOpen/?notif_id=1512311204057714&notif_t=group_r2j_approved) [TensorFlow KR](https://www.facebook.com/groups/TensorFlowKR/?notif_id=1512311529673421&notif_t=group_added_to_group) [PyTorch KR](https://www.facebook.com/groups/PyTorchKR/?notif_id=1512311546462986&notif_t=group_added_to_group&ref=notif)      |
+| India          | [IDLI: Indian Deep Learning Initiative](https://www.facebook.com/groups/idliai/) |
 
