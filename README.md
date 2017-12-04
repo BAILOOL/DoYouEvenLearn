@@ -80,11 +80,12 @@ Usually, important news is disseminated pretty fast on Twitter and often shared 
 
 ## Connect to your local communities
 
-Temporary description: From my personal experience, due to multiple reasons, there are various local communities(e.g. per country). I would simply not dare include links for those that I am not competent in. Eventually, the table below might look smth like [this](https://i.pinimg.com/originals/29/5d/22/295d22ab9d9d2c35468b526459d687e8.jpg)(just an idea). Please update the table with verified links.
+Temporary description: From my personal experience, due to multiple reasons, there are various local communities(e.g. per country). I would simply not dare to include links for those that I am not competent in. Eventually, the table below might look smth like [this](https://i.pinimg.com/originals/29/5d/22/295d22ab9d9d2c35468b526459d687e8.jpg)(just an idea). Please update the table with verified links.
 
 | Country        | Links         | 
 | -------------  |:-------------:|
-| Ukraine        | [Ukrainian Artificial Intelligence Community](https://www.facebook.com/groups/1528224447431465/) |
-| South Korea    | [AI Korea (Deep Learning)](https://www.facebook.com/groups/AIKoreaOpen/?notif_id=1512311204057714&notif_t=group_r2j_approved) [TensorFlow KR](https://www.facebook.com/groups/TensorFlowKR/?notif_id=1512311529673421&notif_t=group_added_to_group) [PyTorch KR](https://www.facebook.com/groups/PyTorchKR/?notif_id=1512311546462986&notif_t=group_added_to_group&ref=notif)      |
+| Azerbaijan     | [Azerbaijan Data Science Society](https://www.facebook.com/azedatasciencesociety/) |
 | India          | [IDLI: Indian Deep Learning Initiative](https://www.facebook.com/groups/idliai/) |
+| South Korea    | [AI Korea (Deep Learning)](https://www.facebook.com/groups/AIKoreaOpen/?notif_id=1512311204057714&notif_t=group_r2j_approved) [TensorFlow KR](https://www.facebook.com/groups/TensorFlowKR/?notif_id=1512311529673421&notif_t=group_added_to_group) [PyTorch KR](https://www.facebook.com/groups/PyTorchKR/?notif_id=1512311546462986&notif_t=group_added_to_group&ref=notif)      |
+| Ukraine        | [Ukrainian Artificial Intelligence Community](https://www.facebook.com/groups/1528224447431465/) |
 
