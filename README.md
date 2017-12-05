@@ -2,6 +2,19 @@
 
 These fields are booming these days. In order not to become rusty, one has to constantly follow the updates. Here is the essential guide on how to keep up with the important news/papers/discussions/tutorials. This guide is by no means an exhaustive one so contributions are truly welcome. I believe you have a lot to add!
 
+## Connect to your local communities
+
+Temporary description: From my personal experience, due to multiple reasons, there are various local communities(e.g. per country). I would simply not dare to include links for those that I am not competent in. Eventually, the table below might look smth like [this](https://i.pinimg.com/originals/29/5d/22/295d22ab9d9d2c35468b526459d687e8.jpg)(just an idea). Please update the table with verified links. I got flags from [here](https://github.com/yusufshakeel/mysql-country-with-flag/tree/master/flags).
+
+| Country        | Links         | 
+| -------------  |:-------------:|
+| ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/az.png "Azerbaijan") Azerbaijan    | [Azerbaijan Data Science Society](https://www.facebook.com/azedatasciencesociety/) |
+| ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/de.png "Germany") Germany        | [ML-KA (Karlsruhe)](http://ml-ka.de/) [Machine Learning Munich](https://www.meetup.com/Machine-Learning-Munich/) |
+| ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/in.png "India") India          | [IDLI: Indian Deep Learning Initiative](https://www.facebook.com/groups/idliai/) |
+| ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/kr.png "South Korea") South Korea    | [AI Korea (Deep Learning)](https://www.facebook.com/groups/AIKoreaOpen/?notif_id=1512311204057714&notif_t=group_r2j_approved) [TensorFlow KR](https://www.facebook.com/groups/TensorFlowKR/?notif_id=1512311529673421&notif_t=group_added_to_group) [PyTorch KR](https://www.facebook.com/groups/PyTorchKR/?notif_id=1512311546462986&notif_t=group_added_to_group&ref=notif)      |
+| ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/ua.png "Ukraine") Ukraine        | [Ukrainian Artificial Intelligence Community](https://www.facebook.com/groups/1528224447431465/) |
+
+
 ## Bookmarks to ‘Run on Start’
 
 ### Reddit
@@ -77,16 +90,3 @@ Usually, important news is disseminated pretty fast on Twitter and often shared 
 - [inFERENCe](http://www.inference.vc/)
 - [The Morning Paper](https://blog.acolyer.org/)
 - [Inside AI](https://inside.com/ai)
-
-## Connect to your local communities
-
-Temporary description: From my personal experience, due to multiple reasons, there are various local communities(e.g. per country). I would simply not dare to include links for those that I am not competent in. Eventually, the table below might look smth like [this](https://i.pinimg.com/originals/29/5d/22/295d22ab9d9d2c35468b526459d687e8.jpg)(just an idea). Please update the table with verified links.
-
-| Country        | Links         | 
-| -------------  |:-------------:|
-| Azerbaijan     | [Azerbaijan Data Science Society](https://www.facebook.com/azedatasciencesociety/) |
-| India          | [IDLI: Indian Deep Learning Initiative](https://www.facebook.com/groups/idliai/) |
-| South Korea    | [AI Korea (Deep Learning)](https://www.facebook.com/groups/AIKoreaOpen/?notif_id=1512311204057714&notif_t=group_r2j_approved) [TensorFlow KR](https://www.facebook.com/groups/TensorFlowKR/?notif_id=1512311529673421&notif_t=group_added_to_group) [PyTorch KR](https://www.facebook.com/groups/PyTorchKR/?notif_id=1512311546462986&notif_t=group_added_to_group&ref=notif)      |
-| Ukraine        | [Ukrainian Artificial Intelligence Community](https://www.facebook.com/groups/1528224447431465/) |
-| Germany        | [ML-KA (Karlsruhe)](http://ml-ka.de/), [Machine Learning Munich](https://www.meetup.com/Machine-Learning-Munich/) |
-
