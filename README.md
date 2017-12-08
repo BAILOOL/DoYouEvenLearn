@@ -12,6 +12,7 @@ Temporary description: From my personal experience, due to multiple reasons, the
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/de.png "Germany") Germany        | [ML-KA (Karlsruhe)](http://ml-ka.de/) [Machine Learning Munich](https://www.meetup.com/Machine-Learning-Munich/) |
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/in.png "India") India          | [IDLI: Indian Deep Learning Initiative](https://www.facebook.com/groups/idliai/) |
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/kr.png "South Korea") South Korea    | [AI Korea (Deep Learning)](https://www.facebook.com/groups/AIKoreaOpen/?notif_id=1512311204057714&notif_t=group_r2j_approved) [TensorFlow KR](https://www.facebook.com/groups/TensorFlowKR/?notif_id=1512311529673421&notif_t=group_added_to_group) [PyTorch KR](https://www.facebook.com/groups/PyTorchKR/?notif_id=1512311546462986&notif_t=group_added_to_group&ref=notif)      |
+| ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/se.png "Sweden") Sweden | [Stockholm AI](http://stockholm.ai/) |
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/tr.png "Turkey") Turkey | [Yapay Zekâ](https://yapayzeka.ai/) |
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/ua.png "Ukraine") Ukraine        | [Ukrainian Artificial Intelligence Community](https://www.facebook.com/groups/1528224447431465/) |
 
@@ -69,20 +70,14 @@ Temporary description: From my personal experience, due to multiple reasons, the
 
 Usually, important news is disseminated pretty fast on Twitter and often shared by many. Here are some of the publically available lists(in no particular order) by well-established Tweeters:
 
-| Tweeter               | Lists | 
-| -------------         |:-------------:|
-| [Deep Learning Hub](https://twitter.com/DeepLearningHub) | [Top-N](https://twitter.com/DeepLearningHub/lists/top-n)   |
-| [Marshall Kirkpatrick](https://twitter.com/marshallk)    | [Top 10 AI](https://twitter.com/marshallk/lists/top-10-ai) |
-| [Lynn Cherny](https://twitter.com/arnicas)               | [Text Data, Vis & Art](https://twitter.com/arnicas/lists/text-data-vis-art)   |
-| [Sam Shead](https://twitter.com/Sam_L_Shead)             | [DeepMind](https://twitter.com/Sam_L_Shead/lists/deepmind) |
-| [Ferenc Huszár](https://twitter.com/fhuszar)             | [Machine Learning](https://twitter.com/fhuszar/lists/machine-learning) |
-| [Denny Britz](https://twitter.com/dennybritz)            | [Deep Learning](https://twitter.com/dennybritz/lists/deep-learning) |
-| [Jihoon Jeong](https://twitter.com/hiconcep)             | [AI](https://twitter.com/hiconcep/lists/ai) |
-| [TensorFlow Community](https://twitter.com/TensorFlo)    | [>10x](https://twitter.com/TensorFlo/lists/10x) |
-| [Nikolai Yakovenko](https://twitter.com/ivan_bezdomny)   | [AI](https://twitter.com/ivan_bezdomny/lists/ai) |
-| [Ayşe Naz Erkan](https://twitter.com/naz_erkan)          | [Cortex folks](https://twitter.com/naz_erkan/lists/cortex-folks) |
-| [Luba Elliott](https://twitter.com/elluba)               | [Creative AI](https://twitter.com/elluba/lists/creative-ai) [Machine Intelligence](https://twitter.com/elluba/lists/machine-intelligence) |
-| [Adam Rifkin](https://twitter.com/ifindkarma)            | [Artificial Intelligence](https://twitter.com/ifindkarma/lists/artificial-intelligence) |
+| Tweeter       | Lists         | Tweeter         | Lists       |
+| ------------- | ------------- | -------------   |-------------|
+| [Deep Learning Hub](https://twitter.com/DeepLearningHub) | [Top-N](https://twitter.com/DeepLearningHub/lists/top-n)   |[Marshall Kirkpatrick](https://twitter.com/marshallk)    | [Top 10 AI](https://twitter.com/marshallk/lists/top-10-ai) |
+| [Lynn Cherny](https://twitter.com/arnicas)               | [Text Data, Vis & Art](https://twitter.com/arnicas/lists/text-data-vis-art)   | [Sam Shead](https://twitter.com/Sam_L_Shead)             | [DeepMind](https://twitter.com/Sam_L_Shead/lists/deepmind) |
+| [Ferenc Huszár](https://twitter.com/fhuszar)             | [Machine Learning](https://twitter.com/fhuszar/lists/machine-learning) | [Denny Britz](https://twitter.com/dennybritz)            | [Deep Learning](https://twitter.com/dennybritz/lists/deep-learning) |
+| [Jihoon Jeong](https://twitter.com/hiconcep)             | [AI](https://twitter.com/hiconcep/lists/ai) | [TensorFlow Community](https://twitter.com/TensorFlo)    | [>10x](https://twitter.com/TensorFlo/lists/10x) |
+| [Nikolai Yakovenko](https://twitter.com/ivan_bezdomny)   | [AI](https://twitter.com/ivan_bezdomny/lists/ai) | [Ayşe Naz Erkan](https://twitter.com/naz_erkan)          | [Cortex folks](https://twitter.com/naz_erkan/lists/cortex-folks) |
+| [Luba Elliott](https://twitter.com/elluba)               | [Creative AI](https://twitter.com/elluba/lists/creative-ai) [Machine Intelligence](https://twitter.com/elluba/lists/machine-intelligence) | [Adam Rifkin](https://twitter.com/ifindkarma)            | [Artificial Intelligence](https://twitter.com/ifindkarma/lists/artificial-intelligence) |
 | [Ali Sohani](https://twitter.com/alisohani)              | [Machine Learning](https://twitter.com/alisohani/lists/machine-learning) |
 
 
