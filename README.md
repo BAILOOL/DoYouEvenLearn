@@ -15,6 +15,7 @@ Temporary description: From my personal experience, due to multiple reasons, the
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/se.png "Sweden") Sweden | [Stockholm AI](http://stockholm.ai/) |
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/tr.png "Turkey") Turkey | [Yapay Zekâ](https://yapayzeka.ai/) |
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/ua.png "Ukraine") Ukraine        | [Ukrainian Artificial Intelligence Community](https://www.facebook.com/groups/1528224447431465/) |
+| ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/vn.png "Vietnam") Vietnam | [Machine Learning cơ bản](https://machinelearningcoban.com/) - [FB](https://www.facebook.com/machinelearningbasicvn/)
 
 
 ## Bookmarks to ‘Run on Start’
