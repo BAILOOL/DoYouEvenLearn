@@ -83,8 +83,8 @@ Usually, important news is disseminated pretty fast on Twitter and often shared 
 
 
 ## Blogs to subscribe
-- [The Wild Week in AI](https://www.getrevue.co/profile/wildml)
-- [inFERENCe](http://www.inference.vc/)
-- [The Morning Paper](https://blog.acolyer.org/)
-- [Inside AI](https://inside.com/ai)
-- [PyImageSearch](https://pyimagesearch.com)
+- [The Wild Week in AI](https://www.getrevue.co/profile/wildml) (news)
+- [Inside AI](https://inside.com/ai) (news)
+- [The Morning Paper](https://blog.acolyer.org/) (paper summaries)
+- [inFERENCe](http://www.inference.vc/) (opinion on things)
+- [PyImageSearch](https://pyimagesearch.com) (tutorials)
