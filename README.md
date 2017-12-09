@@ -87,3 +87,4 @@ Usually, important news is disseminated pretty fast on Twitter and often shared 
 - [inFERENCe](http://www.inference.vc/)
 - [The Morning Paper](https://blog.acolyer.org/)
 - [Inside AI](https://inside.com/ai)
+- [PyImageSearch](https://pyimagesearch.com)
