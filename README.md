@@ -38,9 +38,7 @@ Temporary description: From my personal experience, due to multiple reasons, the
 
 ### [GitXiv](http://www.gitxiv.com/): space to share collaborative projects
 
-### [HackerNews](https://news.ycombinator.com/news) (I wish there is an option to filter out posts of interest)
-
-### [TaggerNews](http://www.taggernews.com/) (This website tags posts of Hacker News into categories, thus filtering can be done) 
+### [TaggerNews](http://www.taggernews.com/) ([HackerNews](https://news.ycombinator.com/news) with tags of interest filter) 
 
 ### [DataTau](https://www.datatau.com/): HackerNews for data scientists
 
