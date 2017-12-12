@@ -40,6 +40,8 @@ Temporary description: From my personal experience, due to multiple reasons, the
 
 ### [HackerNews](https://news.ycombinator.com/news) (I wish there is an option to filter out posts of interest)
 
+### [TaggerNews](http://www.taggernews.com/) (This website tags posts of Hacker News into categories, thus filtering can be done) 
+
 ### [DataTau](https://www.datatau.com/): HackerNews for data scientists
 
 ### [AITopics](https://aitopics.org/search): collection of info about research, people, and applications of AI
