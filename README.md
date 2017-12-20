@@ -84,7 +84,7 @@ Usually, important news is disseminated pretty fast on Twitter and often shared 
 | [Jihoon Jeong](https://twitter.com/hiconcep)             | [AI](https://twitter.com/hiconcep/lists/ai) | [TensorFlow Community](https://twitter.com/TensorFlo)    | [>10x](https://twitter.com/TensorFlo/lists/10x) |
 | [Nikolai Yakovenko](https://twitter.com/ivan_bezdomny)   | [AI](https://twitter.com/ivan_bezdomny/lists/ai) | [Ayşe Naz Erkan](https://twitter.com/naz_erkan)          | [Cortex folks](https://twitter.com/naz_erkan/lists/cortex-folks) |
 | [Luba Elliott](https://twitter.com/elluba)               | [Creative AI](https://twitter.com/elluba/lists/creative-ai) [Machine Intelligence](https://twitter.com/elluba/lists/machine-intelligence) | [Adam Rifkin](https://twitter.com/ifindkarma)            | [Artificial Intelligence](https://twitter.com/ifindkarma/lists/artificial-intelligence) |
-| [Ali Sohani](https://twitter.com/alisohani)              | [Machine Learning](https://twitter.com/alisohani/lists/machine-learning) |
+| [Ali Sohani](https://twitter.com/alisohani)              | [Machine Learning](https://twitter.com/alisohani/lists/machine-learning) | [John A Guerra Gómez](https://twitter.com/duto_guerra) | [NIPS2017_most_followed](https://twitter.com/duto_guerra/lists/NIPS2017-most-followed) |
 
 
 ## Blogs to subscribe
