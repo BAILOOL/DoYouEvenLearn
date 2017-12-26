@@ -27,16 +27,12 @@ Temporary description: From my personal experience, due to multiple reasons, the
 ## Bookmarks to ‘Run on Start’
 
 ### Reddit
-- [machine_learning](https://www.reddit.com/user/techrat_reddit/m/machine_learning/)
-- [MachineLearning](https://www.reddit.com/r/MachineLearning/)
-- [computervision](https://www.reddit.com/r/computervision/)
-- [learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
+| [machine_learning](https://www.reddit.com/user/techrat_reddit/m/machine_learning/)       | [MachineLearning](https://www.reddit.com/r/MachineLearning/)        | [computervision](https://www.reddit.com/r/computervision/)  | [learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/) |
+| :-------------:  | :-------------: | :-------------: | :-------------: |
 
 ### arXiv: open access to e-prints. Do not forget to install [Fermat’s Library](http://fermatslibrary.com/librarian)
-- [Computer Vision and Pattern Recognition](https://arxiv.org/list/cs.CV/recent)
-- [Artificial Intelligence](https://arxiv.org/list/cs.AI/recent)
-- [Learning](https://arxiv.org/list/cs.LG/recent)
-- [Neural and Evolutionary Computing](https://arxiv.org/list/cs.NE/recent)
+| [Computer Vision and Pattern Recognition](https://arxiv.org/list/cs.CV/recent) | [Artificial Intelligence](https://arxiv.org/list/cs.AI/recent) | [Learning](https://arxiv.org/list/cs.LG/recent)  | [Neural and Evolutionary Computing](https://arxiv.org/list/cs.NE/recent) | [Computation and Language](https://arxiv.org/list/cs.CL/recent) | [Machine Learning](https://arxiv.org/list/stat.ML/recent) |
+|:---:|:---:|:----:|:---:| :---:| :---:| 
 
 ### [Arxiv Sanity](http://www.arxiv-sanity.com/): beautiful interface plus other features for interacting with arXiv
 
@@ -51,27 +47,20 @@ Temporary description: From my personal experience, due to multiple reasons, the
 ### [AITopics](https://aitopics.org/search): collection of info about research, people, and applications of AI
 
 ### Youtube channels. Do not forget to install [playback speed control](https://chrome.google.com/webstore/detail/youtube-playback-speed-co/hdannnflhlmdablckfkjpleikpphncik) to optimize your time
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-- [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
-- [Robert Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)
-- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+| [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)      | [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)        | [Robert Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)  | [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) |
+| :-------------:  | :-------------: | :-------------: | :-------------: |
 
 ### Company research blogs:
-- [Google](https://research.googleblog.com/)
-- [Facebook](https://research.fb.com/blog/)
-- [Nvidia](https://blogs.nvidia.com/blog/category/deep-learning/)
-- [Apple](https://machinelearning.apple.com/)
+| [Google](https://research.googleblog.com/)      | [Facebook](https://research.fb.com/blog/)        | [Nvidia](https://blogs.nvidia.com/blog/category/deep-learning/)  | [Apple](https://machinelearning.apple.com/) |
+| :-------------:  | :-------------: | :-------------: | :-------------: |
 
 ### Quora: 
-- [Machine Learning](https://www.quora.com/pinned/Machine-Learning)
-- [Computer Vision](https://www.quora.com/pinned/Computer-Vision)
-- [Deep Learning](https://www.quora.com/pinned/Deep-Learning)
-- [Reinforcement Learning](https://www.quora.com/pinned/Reinforcement-Learning)
+| [Machine Learning](https://www.quora.com/pinned/Machine-Learning)      | [Computer Vision](https://www.quora.com/pinned/Computer-Vision)        | [Deep Learning](https://www.quora.com/pinned/Deep-Learning)  | [Reinforcement Learning](https://www.quora.com/pinned/Reinforcement-Learning) |
+| :-------------:  | :-------------: | :-------------: | :-------------: |
 
 ### Less active updates:
-- [Google Scholar](https://scholar.google.com/)
-- [ResearchGate](https://www.researchgate.net/)
-- [Distill](https://distill.pub/)
+| [Google Scholar](https://scholar.google.com/)      | [ResearchGate](https://www.researchgate.net/)        | [Distill](https://distill.pub/)  |
+| :-------------:  | :-------------: | :-------------: |
 
 ## Twitter
 
