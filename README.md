@@ -8,6 +8,7 @@ Temporary description: From my personal experience, due to multiple reasons, the
 
 | Country        | Links         | 
 | -------------  |:-------------:|
+| ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/ar.png "Argentina") Argentina    | [Inteligencia Artificial Argentina](http://iaar.site/index.html) |
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/az.png "Azerbaijan") Azerbaijan    | [Azerbaijan Data Science Society](https://www.facebook.com/azedatasciencesociety/) |
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/br.png "Brazil") Brazil        | [ML, DL, BD - Brasil](https://www.facebook.com/machinelearningdeeplearningbrasil/) [IA & DL Brasil](https://www.facebook.com/groups/machinedeeplearningbrasil/) |
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/cz.png "Czech Republic") Czech Republic        | [MLMU-Prague](https://www.meetup.com/Prague-Machine-Learning/) [MLMU-Brno](https://www.meetup.com/Machine-Learning-Meetup-Brno/) |
