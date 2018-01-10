@@ -15,7 +15,7 @@ Temporary description: From my personal experience, due to multiple reasons, the
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/de.png "Germany") Germany        | [ML-KA (Karlsruhe)](http://ml-ka.de/) [Machine Learning Munich](https://www.meetup.com/Machine-Learning-Munich/) |
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/in.png "India") India          | [IDLI: Indian Deep Learning Initiative](https://www.facebook.com/groups/idliai/) |
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/mx.png "Mexico") Mexico          | [Data Science y Machine Learning en Mexico](https://www.facebook.com/DSMLMexico/) |
-| ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/pk.png "Pakistan") Pakistan          | [Pakistan.ai Page](https://www.facebook.com/PakistandotAI/) [Pakistan.ai Group](https://www.facebook.com/groups/1045006612234229/about/) [MLPK Page](https://www.facebook.com/MLPKMag/) [MLPK Group](https://www.facebook.com/groups/MLPakistan/about/) |
+| ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/pk.png "Pakistan") Pakistan          | [Pakistan.ai Page](https://www.facebook.com/PakistandotAI/) [Pakistan.ai Group](https://www.facebook.com/groups/1045006612234229/about/) [MLPK Page](https://www.facebook.com/MLPKMag/) [MLPK Group](https://www.facebook.com/groups/MLPakistan/about/) [Karachi.ai](https://karachi.city.ai/)|
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/pe.png "Peru") Peru          | [Machine Learning Peru](https://www.facebook.com/machinelearningperu/) |
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/pl.png "Poland") Poland          | [Data Science po polsku](https://www.facebook.com/datasciencepopolsku/) |
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/sk.png "Slovakia") Slovakia        | [MLMU-Bratislava](https://www.meetup.com/Machine-Learning-Bratislava-Meetup/) [MLMU-Košice](https://www.meetup.com/Machine-Learning-Meetup-Kosice/) |
@@ -26,6 +26,7 @@ Temporary description: From my personal experience, due to multiple reasons, the
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/ua.png "Ukraine") Ukraine        | [Ukrainian Artificial Intelligence Community](https://www.facebook.com/groups/1528224447431465/) |
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/vn.png "Vietnam") Vietnam | [Machine Learning cơ bản](https://machinelearningcoban.com/) - [FB](https://www.facebook.com/machinelearningbasicvn/)
 
+The table above lists well-established communities committed/suggested by their members. Additionally, make sure to visit [CITY.AI](https://city.ai/) that organizes get-togethers to connect to your local AI communities (40+ cities available).
 
 ## Bookmarks to ‘Run on Start’
 
