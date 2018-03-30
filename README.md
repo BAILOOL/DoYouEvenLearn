@@ -27,7 +27,7 @@ Due to multiple reasons, there are various country-based communities. Connect to
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/se.png "Sweden") Sweden | [Stockholm AI](http://stockholm.ai/) |
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/ch.png "Switzerland") Switzerland | [Zurich Machine Learning Meetup](https://www.meetup.com/Zurich-Machine-Learning/) |
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/tr.png "Turkey") Turkey | [Yapay Zekâ](https://yapayzeka.ai/) |
-| ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/ua.png "Ukraine") Ukraine        | [Ukrainian Artificial Intelligence Community](https://www.facebook.com/groups/1528224447431465/) |
+| ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/ua.png "Ukraine") Ukraine        | [Artificial Intelligence](https://www.facebook.com/groups/1528224447431465/) and [Computer Vision](https://www.facebook.com/groups/UkrCompVisionAlliance/) |
 | ![](https://raw.githubusercontent.com/yusufshakeel/mysql-country-with-flag/master/flags/vn.png "Vietnam") Vietnam | [Machine Learning cơ bản](https://machinelearningcoban.com/) and [FB page](https://www.facebook.com/machinelearningbasicvn/)
 
 The table above lists well-established communities committed/suggested by their members. Additionally, make sure to visit [CITY.AI](https://city.ai/) that organizes get-togethers to connect to your local AI communities (40+ cities available).
@@ -55,8 +55,8 @@ The table above lists well-established communities committed/suggested by their 
 ### [AITopics](https://aitopics.org/search): collection of info about research, people, and applications of AI
 
 ### Youtube channels. Do not forget to install [playback speed control](https://chrome.google.com/webstore/detail/youtube-playback-speed-co/hdannnflhlmdablckfkjpleikpphncik) to optimize your time
-| [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)      | [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)        | [Robert Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)  | [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) |
-| :-------------:  | :-------------: | :-------------: | :-------------: |
+| [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)      | [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)        | [Robert Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)  | [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg) | [Aurélien Géron](https://www.youtube.com/channel/UCCvGd1WBMpFQ_vtC89VF2qA) | [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) |
+| :-------------:  | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 
 ### Company research blogs:
 | [Google](https://research.googleblog.com/)      | [Facebook](https://research.fb.com/blog/)        | [Nvidia](https://blogs.nvidia.com/blog/category/deep-learning/)  | [Apple](https://machinelearning.apple.com/) |
@@ -85,9 +85,14 @@ Usually, important news is disseminated pretty fast on Twitter and often shared 
 | [Ali Sohani](https://twitter.com/alisohani)              | [Machine Learning](https://twitter.com/alisohani/lists/machine-learning) | [John A Guerra Gómez](https://twitter.com/duto_guerra) | [NIPS2017_most_followed](https://twitter.com/duto_guerra/lists/NIPS2017-most-followed) |
 
 
-## Blogs to subscribe
+## Blogs/Newsletters to subscribe
 - [The Wild Week in AI](https://www.getrevue.co/profile/wildml) (news)
 - [Inside AI](https://inside.com/ai) (news)
 - [The Morning Paper](https://blog.acolyer.org/) (paper summaries)
 - [inFERENCe](http://www.inference.vc/) (opinion on things)
 - [PyImageSearch](https://pyimagesearch.com) (tutorials)
+- [O'Reilly Artificial Intelligence Newsletter](http://www.oreilly.com/ai/newsletter.html)
+- [Import AI](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) (news)
+- [arg min blog](http://www.argmin.net/)
+- [Off the Convex Path](http://www.offconvex.org/) (blog)
+- [The Spectator](http://blog.shakirm.com/) (blog)
