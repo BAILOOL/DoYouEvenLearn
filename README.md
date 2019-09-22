@@ -49,7 +49,7 @@ The table above lists well-established communities committed/suggested by their 
 
 ### [ShortScience](http://www.shortscience.org/): post-publication discussion
 
-### [GitXiv](http://www.gitxiv.com/): space to share collaborative projects
+### [PapersWithCode](https://paperswithcode.com): space to share papers with open-source implementation
 
 ### [TaggerNews](http://www.taggernews.com/) ([HackerNews](https://news.ycombinator.com/news) with tags of interest filter) 
 
@@ -57,9 +57,11 @@ The table above lists well-established communities committed/suggested by their 
 
 ### [AITopics](https://aitopics.org/search): collection of info about research, people, and applications of AI
 
+### [Deep Learning Monitor](https://deeplearn.org/): monitoring the research field you care about
+
 ### Youtube channels. Do not forget to install [playback speed control](https://chrome.google.com/webstore/detail/youtube-playback-speed-co/hdannnflhlmdablckfkjpleikpphncik) to optimize your time
-| [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)      | [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)        | [Robert Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)  | [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg) | [Aurélien Géron](https://www.youtube.com/channel/UCCvGd1WBMpFQ_vtC89VF2qA) | [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) |
-| :-------------:  | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)      | [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)        | [Robert Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)  | [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg) | [Aurélien Géron](https://www.youtube.com/channel/UCCvGd1WBMpFQ_vtC89VF2qA) |
+| :-------------:  | :-------------: | :-------------: | :-------------: | :-------------: |
 
 ### Company research blogs:
 | [Google](https://research.googleblog.com/)      | [Facebook](https://research.fb.com/blog/)        | [Nvidia](https://blogs.nvidia.com/blog/category/deep-learning/)  | [Apple](https://machinelearning.apple.com/) |
