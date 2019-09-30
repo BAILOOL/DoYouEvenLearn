@@ -53,7 +53,7 @@ The table above lists well-established communities committed/suggested by their 
 
 ### [TaggerNews](http://www.taggernews.com/) ([HackerNews](https://news.ycombinator.com/news) with tags of interest filter) 
 
-### [DataTau](https://www.datatau.com/): HackerNews for data scientists
+### [DataTau](https://datatau.net/): HackerNews for data scientists
 
 ### [AITopics](https://aitopics.org/search): collection of info about research, people, and applications of AI
 
