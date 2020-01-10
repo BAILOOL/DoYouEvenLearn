@@ -1,4 +1,4 @@
-# Essential Guide to keep up with AI/ML/CV
+# Essential Guide to keep up with AI/ML/DL/CV
 
 These fields are booming these days. In order not to become rusty, one has to constantly follow the updates. Here is the essential guide on how to keep up with the important news/papers/discussions/tutorials. This guide is by no means an exhaustive one so contributions are truly welcome.
 
