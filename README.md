@@ -101,3 +101,5 @@ Usually, important news is disseminated pretty fast on Twitter and often shared 
 - [arg min blog](http://www.argmin.net/)
 - [Off the Convex Path](http://www.offconvex.org/) (blog)
 - [The Spectator](http://blog.shakirm.com/) (blog)
+- [NLP News](https://ruder.io/nlp-news/)
+- [The Batch](https://www.deeplearning.ai/thebatch/)
