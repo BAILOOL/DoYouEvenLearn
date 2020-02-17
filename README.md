@@ -80,17 +80,16 @@ Do not forget to install [playback speed control](https://chrome.google.com/webs
 
 ## Twitter
 
-Usually, important news is disseminated pretty fast on Twitter and often shared by many. Here are some of the publically available lists(in no particular order) by well-established Tweeters:
+Usually, important news is disseminated pretty fast on Twitter and often shared by many. Here are some of the Tweeters(in no particular order):
 
-| Tweeter       | Lists         | Tweeter         | Lists       |
-| ------------- | ------------- | -------------   |-------------|
-| [Deep Learning Hub](https://twitter.com/DeepLearningHub) | [Top-N](https://twitter.com/DeepLearningHub/lists/top-n)   |[Marshall Kirkpatrick](https://twitter.com/marshallk)    | [Top 10 AI](https://twitter.com/marshallk/lists/top-10-ai) |
-| [Lynn Cherny](https://twitter.com/arnicas)               | [Text Data, Vis & Art](https://twitter.com/arnicas/lists/text-data-vis-art)   | [Sam Shead](https://twitter.com/Sam_L_Shead)             | [DeepMind](https://twitter.com/Sam_L_Shead/lists/deepmind) |
-| [Ferenc Huszár](https://twitter.com/fhuszar)             | [Machine Learning](https://twitter.com/fhuszar/lists/machine-learning) | [Denny Britz](https://twitter.com/dennybritz)            | [Deep Learning](https://twitter.com/dennybritz/lists/deep-learning) |
-| [Jihoon Jeong](https://twitter.com/hiconcep)             | [AI](https://twitter.com/hiconcep/lists/ai) | [TensorFlow Community](https://twitter.com/TensorFlo)    | [>10x](https://twitter.com/TensorFlo/lists/10x) |
-| [Nikolai Yakovenko](https://twitter.com/ivan_bezdomny)   | [AI](https://twitter.com/ivan_bezdomny/lists/ai) | [Ayşe Naz Erkan](https://twitter.com/naz_erkan)          | [Cortex folks](https://twitter.com/naz_erkan/lists/cortex-folks) |
-| [Luba Elliott](https://twitter.com/elluba)               | [Creative AI](https://twitter.com/elluba/lists/creative-ai) [Machine Intelligence](https://twitter.com/elluba/lists/machine-intelligence) | [Adam Rifkin](https://twitter.com/ifindkarma)            | [Artificial Intelligence](https://twitter.com/ifindkarma/lists/artificial-intelligence) |
-| [Ali Sohani](https://twitter.com/alisohani)              | [Machine Learning](https://twitter.com/alisohani/lists/machine-learning) | [John A Guerra Gómez](https://twitter.com/duto_guerra) | [NIPS2017_most_followed](https://twitter.com/duto_guerra/lists/NIPS2017-most-followed) |
+|        |          |          |        |        |         |
+| ------------- | ------------- | -------------   |-------------| -------------| -------------|
+| [Deep Learning Hub](https://twitter.com/DeepLearningHub) |  [Geoffrey Hinton](https://twitter.com/geoffreyhinton) | [Yann LeCun](https://twitter.com/ylecun)   |  [Andrew Ng](https://twitter.com/AndrewYNg) | [Ian Goodfellow](https://twitter.com/goodfellow_ian) | [Lynn Cherny](https://twitter.com/arnicas)  |  
+|[Allie K. Miller](https://twitter.com/alliekmiller)  |   [Fabio Moioli](https://twitter.com/fabiomoioli)  | [Oriol Vinyals](https://twitter.com/OriolVinyalsML) | [Spiros Margaris](https://twitter.com/SpirosMargaris) | [Ferenc Huszár](https://twitter.com/fhuszar)  |  [Fei-Fei Li](https://twitter.com/drfeifei)  |
+| [Tarry Singh](https://twitter.com/tarrysingh) |  [Martin Ford](https://twitter.com/MFordFuture) | [Jihoon Jeong](https://twitter.com/hiconcep)  | [Nige Willson](https://twitter.com/nigewillson)  |  [Nathan Benaich](https://twitter.com/NathanBenaich)   |  [Adam Geitgey](https://twitter.com/ageitgey) |
+| [Soumith Chintala](https://twitter.com/soumithchintala)  | [Gary Marcus](https://twitter.com/GaryMarcus) | [Ayşe Naz Erkan](https://twitter.com/naz_erkan)   |  [Adam Coates](https://twitter.com/adampaulcoates)  | [Andrej Karpathy](https://twitter.com/karpathy) | [Luba Elliott](https://twitter.com/elluba)   |   
+|  [Vincent Boucher](https://twitter.com/ceobillionaire)   | [Andreas K. Maier](https://twitter.com/maier_ak)  | [KDnuggets](https://twitter.com/kdnuggets) |    [Moustapha Cisse](https://twitter.com/Moustapha_6C)  |  [Reza Zadeh](https://twitter.com/Reza_Zadeh) | [John A Guerra Gómez](https://twitter.com/duto_guerra) |  
+| | | | | |
 
 
 ## Blogs/Newsletters
