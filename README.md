@@ -60,6 +60,8 @@ The table above lists well-established communities committed/suggested by their 
 
 ### [AITopics](https://aitopics.org/search): collection of info about research, people, and applications of AI
 
+### [Made With ML](https://madewithml.com/): stay up-to-date with trending projects organized by topics
+
 ### [Deep Learning Monitor](https://deeplearn.org/): monitoring the research field you care about
 
 ### Youtube channels
