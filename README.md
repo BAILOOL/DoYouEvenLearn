@@ -65,8 +65,8 @@ The table above lists well-established communities committed/suggested by their 
 ### [Deep Learning Monitor](https://deeplearn.org/): monitoring the research field you care about
 
 ### Youtube channels
-| [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)      | [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)        | [Robert Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)  | [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg) | [Aurélien Géron](https://www.youtube.com/channel/UCCvGd1WBMpFQ_vtC89VF2qA) | [Preserve Knowledge](https://www.youtube.com/user/Charleshche/featured) | [Lex Fridman](https://www.youtube.com/user/lexfridman/featured) | [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew/featured) | [Leo Isikdogan](https://www.youtube.com/channel/UC-YAxUbpa1hvRyfJBKFNcJA/featured) | [Amii Intelligence](https://www.youtube.com/channel/UCxxisInVr7upxv1yUhSgdBA/featured) | [Simons Institute](https://www.youtube.com/user/SimonsInstitute/featured) | [CodeEmporium](https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA/featured) | [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/videos) | [StatQuest](https://www.youtube.com/user/joshstarmer) | [bycloud](https://www.youtube.com/c/bycloudAI/videos) | 
-| :-------------:  | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  
+| [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)      | [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)        | [Robert Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)  | [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg) | [Aurélien Géron](https://www.youtube.com/channel/UCCvGd1WBMpFQ_vtC89VF2qA) | [Preserve Knowledge](https://www.youtube.com/user/Charleshche/featured) | [Lex Fridman](https://www.youtube.com/user/lexfridman/featured) | [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew/featured) | [Leo Isikdogan](https://www.youtube.com/channel/UC-YAxUbpa1hvRyfJBKFNcJA/featured) | [Amii Intelligence](https://www.youtube.com/channel/UCxxisInVr7upxv1yUhSgdBA/featured) | [Simons Institute](https://www.youtube.com/user/SimonsInstitute/featured) | [CodeEmporium](https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA/featured) | [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/videos) | [StatQuest](https://www.youtube.com/user/joshstarmer) | [bycloud](https://www.youtube.com/c/bycloudAI/videos) | [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg)
+| :-------------:  | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | 
 
 Do not forget to install [playback speed control](https://chrome.google.com/webstore/detail/youtube-playback-speed-co/hdannnflhlmdablckfkjpleikpphncik) to optimize your time.
 
@@ -84,16 +84,7 @@ Do not forget to install [playback speed control](https://chrome.google.com/webs
 
 ## Twitter
 
-Usually, important news is disseminated pretty fast on Twitter and often shared by many. Here are some of the Tweeters(in no particular order):
-
-|        |          |          |        |        |         |
-| ------------- | ------------- | -------------   |-------------| -------------| -------------|
-| [Deep Learning Hub](https://twitter.com/DeepLearningHub) |  [Geoffrey Hinton](https://twitter.com/geoffreyhinton) | [Yann LeCun](https://twitter.com/ylecun)   |  [Andrew Ng](https://twitter.com/AndrewYNg) | [Ian Goodfellow](https://twitter.com/goodfellow_ian) | [Lynn Cherny](https://twitter.com/arnicas)  |  
-|[Allie K. Miller](https://twitter.com/alliekmiller)  |   [Fabio Moioli](https://twitter.com/fabiomoioli)  | [Oriol Vinyals](https://twitter.com/OriolVinyalsML) | [Spiros Margaris](https://twitter.com/SpirosMargaris) | [Ferenc Huszár](https://twitter.com/fhuszar)  |  [Fei-Fei Li](https://twitter.com/drfeifei)  |
-| [Tarry Singh](https://twitter.com/tarrysingh) |  [Martin Ford](https://twitter.com/MFordFuture) | [Jihoon Jeong](https://twitter.com/hiconcep)  | [Nige Willson](https://twitter.com/nigewillson)  |  [Nathan Benaich](https://twitter.com/NathanBenaich)   |  [Adam Geitgey](https://twitter.com/ageitgey) |
-| [Soumith Chintala](https://twitter.com/soumithchintala)  | [Gary Marcus](https://twitter.com/GaryMarcus) | [Ayşe Naz Erkan](https://twitter.com/naz_erkan)   |  [Adam Coates](https://twitter.com/adampaulcoates)  | [Andrej Karpathy](https://twitter.com/karpathy) | [Luba Elliott](https://twitter.com/elluba)   |   
-|  [Vincent Boucher](https://twitter.com/ceobillionaire)   | [Andreas K. Maier](https://twitter.com/maier_ak)  | [KDnuggets](https://twitter.com/kdnuggets) |    [Moustapha Cisse](https://twitter.com/Moustapha_6C)  |  [Reza Zadeh](https://twitter.com/Reza_Zadeh) | [John A Guerra Gómez](https://twitter.com/duto_guerra) |  
-| | | | | |
+Usually, important news is disseminated pretty fast on Twitter and often shared by many. Find people of interest and follow them.
 
 
 ## Blogs/Newsletters
