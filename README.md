@@ -52,6 +52,8 @@ The table above lists well-established communities committed/suggested by their 
 
 ### [Arxiv Sanity](http://www.arxiv-sanity.com/): beautiful interface plus other features for interacting with arXiv
 
+### [CatalyzeX](https://www.catalyzex.com): easily find open-source code implementations for papers ([chrome extension](https://chrome.google.com/webstore/detail/aiml-papers-with-code-eve/aikkeehnlfpamidigaffhfmgbkdeheil) and [firefox extension](https://addons.mozilla.org/en-US/firefox/addon/code-finder-catalyzex/) also available that automatically find and show code for papers anywhere online)
+
 ### [ShortScience](http://www.shortscience.org/): post-publication discussion
 
 ### [PapersWithCode](https://paperswithcode.com): space to share papers with open-source implementation
